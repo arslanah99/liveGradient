@@ -57,3 +57,12 @@
   font-size: 5vh;
   border-radius: 10px 10px 10px 10px;
 }
+
+#canvas-basic {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-size: 130px;
+  background-image: image("../photos/lebron_transparent.png");
+  text-indent: -9999px;
+}
